@@ -1,0 +1,7 @@
+---
+apt_dater_groups: []
+# - name: servers    # required, name of that group
+#   hosts: []        # required, hosts in that group
+#     - host1.tld
+#     - host2.tld
+#     - host3.tld
