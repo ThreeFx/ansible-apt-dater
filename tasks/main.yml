@@ -7,4 +7,4 @@
 - name: Configure apt-dater hosts
   template:
     src: hosts.xml.j2
-    dest: ~/.config/hosts.xml
+    dest: ~/.config/apt-dater/hosts.xml
